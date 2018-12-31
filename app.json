@@ -1,0 +1,6 @@
+{
+  "name": "Ollie-API example",
+  "description": "A simple API built in Node and Express hosted on Heroku for the Ollie-UI js framework",
+  "repository": "https://github.com/VirtuallyCreative/ollie-api",
+  "keywords": ["node", "express", "static"]
+}

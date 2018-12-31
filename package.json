@@ -1,0 +1,22 @@
+{
+  "name": "ollie-api-example",
+  "version": "0.0.1",
+  "description": "A simple API built in Node and Express hosted on Heroku - works with Ollie-UI framework",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "2.8.1",
+    "express": "^4.16.4"
+  },
+  "engines": {
+    "node": "^10.15.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VirtuallyCreative/ollie-api"
+  },
+  "author": "Al Romano",
+  "license": "MIT"
+}
